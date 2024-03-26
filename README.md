@@ -1,8 +1,12 @@
 ### Olá! Eu sou o Pedro Henrique Gualter🖐🏽
+- Analista de dados
+- Cientista de dados
+- Apaixonado por tecnologia
 
+## Como você pode me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-gualter-do-nascimento-218535259/)
 
-## Tecnologias que utilizo no dia a dia
+## Tecnologias que eu utilizo no dia a dia:
 <div style="display: inline_block"><br/>
   <img align="center" alt= "python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
 <div style = "display_block"/>
