@@ -19,5 +19,5 @@
   <img align="center" alt= "linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div><br/>
 
-Sou fascinado e apaixonado pela tecnologia, e busco cada vez aprender e descobrir (principalmente a área dos dados) novas ideias que possam ajudar muito as pessoas.
+Sou fascinado e apaixonado pela tecnologia, e busco cada vez mais aprender e descobrir (principalmente a área dos dados) novas ideias, que possam ajudar muito as pessoas.
 
